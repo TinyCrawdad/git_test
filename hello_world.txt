@@ -1,0 +1,2 @@
+Hello world!
+Learning the Odin Project and these are my first commits to GitHub
